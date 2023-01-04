@@ -1,6 +1,30 @@
+# React Fitness Application
+
+Work in progress...
+
+# Live Site
+
+# Application Image
+
+# Description
+
+I have been going to the GYM recently so I thought how cool would it be to create an application that enables me to choose and learn about an exercise category and specific muscle groups. someone might ask why don't you use an existent app. My answer to that would be where is the fun in just doing so? <br/>
+There's nothing better than eating your self cooked meal.
+
+## Features
+
+1- Browse thousands of practicals exercise examples built with Rapid API. <br/>
+2- Pagination and display exercise details. <br/>
+3- Get related videos from YouTube built with Rapid API. <br/>
+
+# Tech Stack
+
+• ReactJs
+• Material UI: Since I used MUI when I built [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. I was impressed by it so I decided to use it one more time and explore it further.
+• Rapid API: I used Rapid API during the development of [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. This time I used two different APIs that serve different aspects of the project but share common purposes.
+
 # Getting Started with Create React App
 
-//
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
