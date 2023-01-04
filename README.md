@@ -20,7 +20,7 @@ There's nothing better than eating your self cooked meal.
 # Tech Stack
 
 • ReactJs. <br/>
-• Material UI: Since I used MUI when I built [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. I was impressed by it so I decided to use it one more time and explore it further. <br/>
+• [Material UI](https://mui.com/): Since I used MUI when I built [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. I was impressed by it so I decided to use it one more time and explore it further. <br/>
 • Rapid API: I used Rapid API during the development of [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. This time I used two different APIs that serve different aspects of the project but share common purposes. <br/>
 
 # Getting Started with Create React App
