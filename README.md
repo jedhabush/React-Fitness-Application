@@ -13,15 +13,15 @@ There's nothing better than eating your self cooked meal.
 
 ## Features
 
-1- Browse thousands of practicals exercise examples built with Rapid API. <br/>
+1- Browse thousands of practicals exercise examples built with [Rapid API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/pricing). <br/>
 2- Pagination and display exercise details. <br/>
-3- Get related videos from YouTube built with Rapid API. <br/>
+3- Get related videos from YouTube built with [Rapid API](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/pricing). <br/>
 
 # Tech Stack
 
-• ReactJs
-• Material UI: Since I used MUI when I built [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. I was impressed by it so I decided to use it one more time and explore it further.
-• Rapid API: I used Rapid API during the development of [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. This time I used two different APIs that serve different aspects of the project but share common purposes.
+• ReactJs. <br/>
+• Material UI: Since I used MUI when I built [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. I was impressed by it so I decided to use it one more time and explore it further. <br/>
+• Rapid API: I used Rapid API during the development of [YouTube clone](https://github.com/jedhabush/Youtube_Clone) app. This time I used two different APIs that serve different aspects of the project but share common purposes. <br/>
 
 # Getting Started with Create React App
 
