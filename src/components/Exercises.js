@@ -5,10 +5,13 @@ import ExerciseCard from "./ExerciseCard";
 
 import { exerciseOptions, fetchData } from "../utils/fetchData";
 import { textTransform } from "@mui/system";
+import Loader from "./Loader";
 
 const Exercises = ({ setExercises, exercises, bodyPart }) => {
   const [currentPage, setCurrentPage] = useState(1);
-  const exercisesPerPage = 9;
+  const [exercisesPerPage] = useState(6);
+
+  // Pagination
   const indexOfLastExercise = currentPage * exercisesPerPage;
   const indexOfFirstExercise = indexOfLastExercise - exercisesPerPage;
   const currentExercises = exercises.slice(
@@ -42,6 +45,7 @@ const Exercises = ({ setExercises, exercises, bodyPart }) => {
     fetchExerciesData();
   }, [bodyPart]);
 
+  if (!currentExercises.length) return <Loader />;
   return (
     <Box id="exercises" sx={{ mt: { lg: "110px" }, mt: "50px", p: "20px" }}>
       <Typography variant="h3" mb="46px">
