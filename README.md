@@ -6,15 +6,15 @@ https://fitness-app-rapid-api.netlify.app/
 
 # Application Image
 
-![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/mainPage.png)
+![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/mainPage1.png)
 
-![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/searchandcategories.png)
+![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/searchandcategories1.png)
 
 ![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/allresults.png)
 
 ![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/eachCardandVideos.png)
 
-![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/similarExercsiesandfooter.png)
+![alt text](https://github.com/jedhabush/React-Fitness-Application/blob/main/similarExercsiesandfooter1.png)
 
 # Description
 
