@@ -4,7 +4,6 @@ import { Box, Stack, Typography } from "@mui/material";
 import ExerciseCard from "./ExerciseCard";
 
 import { exerciseOptions, fetchData } from "../utils/fetchData";
-import { textTransform } from "@mui/system";
 import Loader from "./Loader";
 
 const Exercises = ({ setExercises, exercises, bodyPart }) => {
@@ -43,10 +42,14 @@ const Exercises = ({ setExercises, exercises, bodyPart }) => {
     };
 
     fetchExerciesData();
+
+    // eslint-disable-next-line
   }, [bodyPart]);
 
   if (!currentExercises.length) return <Loader />;
+
   return (
+    // eslint-disable-next-line
     <Box id="exercises" sx={{ mt: { lg: "110px" }, mt: "50px", p: "20px" }}>
       <Typography variant="h3" mb="46px">
         Showing Results for{" "}
