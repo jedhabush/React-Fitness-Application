@@ -18,8 +18,7 @@ https://fitness-app-rapid-api.netlify.app/
 
 # Description
 
-I have been going to the GYM recently so I thought how cool would it be to create an application that enables me to choose and learn about an exercise category and specific muscle groups. someone might ask why don't you use an existent app. My answer to that would be where is the fun in just doing so? <br/>
-There's nothing better than eating your self cooked meal.
+I have been going to the gym recently, so I thought it would be cool to create an application that enables me to choose and learn about different exercise categories and specific muscle groups. Someone might ask, "Why don't you just use an existing app?" My answer to that would be, "Where is the fun in just doing that?" There's nothing better than eating a meal that you cooked yourself.
 
 ## Features
 
